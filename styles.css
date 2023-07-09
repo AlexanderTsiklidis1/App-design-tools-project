@@ -1,0 +1,11 @@
+body {
+    background-image: url("./assets/more-leaves-on-green.png");
+}
+
+img {
+    height: 250px;
+}
+
+.header {
+    text-align: center;
+}
